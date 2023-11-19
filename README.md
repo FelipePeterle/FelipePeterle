@@ -1,5 +1,5 @@
 <div align="center">
-<img width="40%" src="https://i.imgur.com/w5WC9m1.png" style="max-width: 100%;">
+<img width="70%" src="https://i.imgur.com/w5WC9m1.png" style="max-width: 100%;">
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-peterle/)
