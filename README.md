@@ -1,7 +1,8 @@
 
 ### Olá! Eu sou o Felipe Peterle 🤙
 
-<a target="_blank">[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-peterle/)</a>
+<a href="https://www.linkedin.com/in/felipe-peterle/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 
 [![Felipe Peterle's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FelipePeterle&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
