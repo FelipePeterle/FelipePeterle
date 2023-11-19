@@ -5,9 +5,9 @@
 
 [![Felipe Peterle's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FelipePeterle&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-### Stack principal
+## Stack principal
 
-<div>
+<div style="padding-bottom:3px">
 
 <a><img alt="VUEJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></a>
 <a><img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"><a>
@@ -15,9 +15,9 @@
 
 </div>
 
-### ⚒️ Habilidades
+## ⚒️ Habilidades
 
-<div>
+<div style="padding-bottom:5px">
 
 <a><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><a>
@@ -26,6 +26,6 @@
 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePeterle&bg_color=0a0f0b&title_color=39d353&text_color=39d353&border_color=ffffff&border_radius=10)
 
 ![Commits](https://raw.githubusercontent.com/IgormBonfim/IgormBonfim/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
