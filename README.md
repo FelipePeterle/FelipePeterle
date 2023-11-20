@@ -29,4 +29,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePeterle&bg_color=0a0f0b&title_color=39d353&text_color=39d353&border_color=ffffff&border_radius=10)
 
-![Commits](https://raw.githubusercontent.com/IgormBonfim/IgormBonfim/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Commits](https://raw.githubusercontent.com/FelipePeterle/FelipePeterle/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
