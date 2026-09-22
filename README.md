@@ -54,13 +54,13 @@ Com bagagem corporativa em PHP (Laravel, Lumen), tenho direcionado meus estudos 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipePeterle&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f0b&title_color=39d353&text_color=39d353" alt="GitHub Stats">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=FelipePeterle&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePeterle&layout=compact&bg_color=0a0f0b&title_color=39d353&text_color=39d353&hide_border=true" alt="Top Langs">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FelipePeterle&layout=compact&theme=tokyonight" alt="Top Langs">
 </div>
 
 <br>
