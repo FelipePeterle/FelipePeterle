@@ -6,37 +6,48 @@
   <a href="https://www.linkedin.com/in/felipe-peterle/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="mailto:felipepeterle9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
 ## 👋 Sobre mim
 
-Olá! Sou um desenvolvedor apaixonado por tecnologia, focado em criar experiências web modernas, eficientes e responsivas. Atualmente focado em aprimorar minhas habilidades no ecossistema de desenvolvimento front-end e back-end, unindo design e código de alta performance.
+Desenvolvedor Full-Stack com sólida experiência no ciclo completo de desenvolvimento de software, focado em performance, escalabilidade e adoção de boas práticas. Atualmente em fase de conclusão do curso de Engenharia de Computação na Multivix.
+
+Com bagagem corporativa em PHP (Laravel, Lumen), tenho direcionado meus estudos e foco profissional para o ecossistema **Go (Golang)**. Atuo com forte viés colaborativo, prestando apoio técnico ao time e focando na melhoria contínua de processos e na manutenção de código limpo.
+
+* 🌐 **Idiomas:** Inglês Avançado.
 
 ---
 
-## 🚀 Stack Principal
+## 🛠️ Habilidades Técnicas
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img alt="VUEJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <!-- Back-End & Infra -->
+  <img alt="GO" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img alt="LARAVEL" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img alt="DOCKER" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  
+  <!-- Front-End -->
   <img alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
-
-## ⚒️ Habilidades & Ferramentas
-
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img alt="VUEJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img alt="TAILWIND" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+  <!-- Databases -->
+  <img alt="SQL SERVER" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+  <!-- Tools & Methods -->
   <img alt="GIT" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="DDEV" src="https://img.shields.io/badge/DDEV-FF5C00?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="SCRUM" src="https://img.shields.io/badge/Scrum-6600CC?style=for-the-badge&logo=scrumalliance&logoColor=white">
 </div>
+
+> **Arquitetura & Qualidade:** Clean Architecture • Testes Automatizados • APIs RESTful
 
 ---
 
